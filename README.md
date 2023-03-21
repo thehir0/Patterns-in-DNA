@@ -1,7 +1,5 @@
-<p align="center">
-Patterns-in-DNA
-font-size: 40px;
-</p>
+#Patterns-in-DNA
+
 
 ## Analysis of Randomness
 To investigate the potential presence of structure in the DNA data, the distribution of
