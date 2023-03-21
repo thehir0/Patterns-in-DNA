@@ -1,5 +1,6 @@
 <p align="center">
 Patterns-in-DNA
+font-size: 40px;
 </p>
 
 ## Analysis of Randomness
