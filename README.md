@@ -1,5 +1,5 @@
 <p align="center">
-# Patterns-in-DNA
+Patterns-in-DNA
 </p>
 
 ## Analysis of Randomness
